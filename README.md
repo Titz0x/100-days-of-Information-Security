@@ -1,4 +1,4 @@
-# 100DaysOfCybersecurity Challenge
+# Cybersecurity Challenge
 
 ## Challenge Description
 The purpose of this challenge is to learn and improve knowledge in cybersecurity and make learning it a part of daily routine.
