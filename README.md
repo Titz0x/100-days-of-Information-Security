@@ -7,7 +7,7 @@ The purpose of this challenge is to learn and improve knowledge in cybersecurity
 Here's the progress made so far:
 
 - DAY 1: 
-1/4 course cyber-ed.ru
+--1/4 course cyber-ed.ru
 Authentication bypass vulnerabilities
 OS Command Injection Vulnerabilities
 Access control vulnerabilities 
