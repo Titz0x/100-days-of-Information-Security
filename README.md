@@ -8,11 +8,11 @@ Here's the progress made so far:
 
 - DAY 1: 
 1/4 course cyber-ed.ru
-  Authentication bypass vulnerabilities
-  Commando Injection Vulnerabilities
-  Access control vulnerabilities 
-  Directory access control vulnerabilities
-  SQL injection
-  vulnerabilities vulnerabilities of the introduction of external XML forces
-  Cross-site Scripting Attacks (XSS)
+Authentication bypass vulnerabilities
+OS Command Injection Vulnerabilities
+Access control vulnerabilities 
+Directory access control vulnerabilities
+SQL injection
+XML external entity
+Cross-site Scripting Attacks (XSS)
 10 pages of Charles Severance's book "How the Internet Works"
