@@ -7,12 +7,12 @@ The purpose of this challenge is to learn and improve knowledge in cybersecurity
 Here's the progress made so far:
 
 - DAY 1: 
---1/4 course cyber-ed.ru
-Authentication bypass vulnerabilities
-OS Command Injection Vulnerabilities
-Access control vulnerabilities 
-Directory access control vulnerabilities
-SQL injection
-XML external entity
-Cross-site Scripting Attacks (XSS)
-10 pages of Charles Severance's book "How the Internet Works"
+1) 1/4 course cyber-ed.ru
+2) Authentication bypass vulnerabilities
+3) OS Command Injection Vulnerabilities
+4) Access control vulnerabilities 
+5) Directory access control vulnerabilities
+6) SQL injection
+7) XML external entity
+8) Cross-site Scripting Attacks (XSS)
+9) 10 pages of Charles Severance's book "How the Internet Works"
