@@ -24,3 +24,4 @@ Here's the progress made so far:
 3) The Practice of "Securing Access"
 4) The practice of "Privilege escalation on server systems"
 5) Practice "Going beyond the DMZ" (Hack Mikrotik)
+6) Full Course cyber-ed.ru completed!
