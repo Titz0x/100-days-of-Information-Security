@@ -16,3 +16,11 @@ Here's the progress made so far:
 7) XML external entity
 8) Cross-site Scripting Attacks (XSS)
 9) 10 pages of Charles Severance's book "How the Internet Works"
+
+
+- DAY 2:
+1) Exploiting Day 1 vulnerabilities in network services
+2) The practice of "Social Engineering" (reverse shell + swaks)
+3) The Practice of "Securing Access"
+4) The practice of "Privilege escalation on server systems"
+5) Practice "Going beyond the DMZ" (Hack Mikrotik)
