@@ -25,3 +25,7 @@ Here's the progress made so far:
 4) The practice of "Privilege escalation on server systems"
 5) Practice "Going beyond the DMZ" (Hack Mikrotik)
 6) Full Course cyber-ed.ru completed!
+
+- DAY 3:
+1) writing notes for all 16 sections
+2) structuring Notion records
