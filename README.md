@@ -29,3 +29,7 @@ Here's the progress made so far:
 - DAY 3:
 1) writing notes for all 16 sections
 2) structuring Notion records
+
+- DAY 4:
+1) Traffic forwarding, pivoting
+2) Writing a roadmap
