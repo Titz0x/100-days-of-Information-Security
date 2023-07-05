@@ -33,3 +33,8 @@ Here's the progress made so far:
 - DAY 4:
 1) Traffic forwarding, pivoting
 2) Writing a roadmap
+
+- DAY 5:
+1) I found the competence matrix, added it to the roadmap
+2) I passed the lab for "Network intelligence and compromise of Windows machines"
+3) felt ethernalblue and tried to hack my virtual machine with a screenshot, webcam, record_mic, hashdump in meterpreter
