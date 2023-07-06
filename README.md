@@ -38,3 +38,7 @@ Here's the progress made so far:
 1) I found the competence matrix, added it to the roadmap
 2) I passed the lab for "Network intelligence and compromise of Windows machines"
 3) felt ethernalblue and tried to hack my virtual machine with a screenshot, webcam, record_mic, hashdump in meterpreter
+
+- DAY 6:
+1) Privilege escalation on local network nodes
+2) + 2 Windows-labs (+ patator, WinPEAS, Remmina)
