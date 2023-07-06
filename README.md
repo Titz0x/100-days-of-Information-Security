@@ -41,4 +41,4 @@ Here's the progress made so far:
 
 - DAY 6:
 1) Privilege escalation on local network nodes
-2) + 2 Windows-labs (+ patator, WinPEAS, Remmina)
+2) 2 Windows-labs (+ patator, WinPEAS, Remmina)
