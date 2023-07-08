@@ -42,3 +42,8 @@ Here's the progress made so far:
 - DAY 6:
 1) Privilege escalation on local network nodes
 2) 2 Windows-labs (+ patator, WinPEAS, Remmina)
+
+- DAY 7:
+1) Capturing network infrastructure management (+ ldapdomaindump, impacket)
+2) Countering detection and response
+3) 
