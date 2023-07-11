@@ -48,3 +48,6 @@ Here's the progress made so far:
 2) Lab "Countering detection and response"
 3) Thinking through the study week:
   Monday - Computer Architecture, Tuesday - Computer Networks, Wednesday - Operating Systems, Thursday-Saturday - Python/C Programming, Sunday - Day Off
+
+- DAY 8:
+1) Computer Architecture : introduction; what are 0 and 1 from the point of view of a computer; number systems; addition, transfer, overflow; solution of the problem of representation of negative numbers; fractional numbers; simplest electronic components; RAM cell device; von neumann principles; components of a computing system; differences in computer architectures
