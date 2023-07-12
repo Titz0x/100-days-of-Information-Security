@@ -52,3 +52,6 @@ Here's the progress made so far:
 - DAY 8:
 1) Computer Architecture : introduction; what are 0 and 1 from the point of view of a computer; number systems; addition, transfer, overflow; solution of the problem of representation of negative numbers; fractional numbers; simplest electronic components; RAM cell device; von neumann principles; components of a computing system; differences in computer architectures
 2) Lab "Nmap"
+- DAY 9:
+1) Introduction to operating systems
+2) Purchase of a marker board for taking notes
