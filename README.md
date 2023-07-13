@@ -55,3 +55,6 @@ Here's the progress made so far:
 - DAY 9:
 1) Introduction to operating systems
 2) Purchase of a marker board for taking notes
+- DAY 10:
+1) Python: I remembered the base: Instructions, Arithmetic operations, Syntax, Linter, Strings, Variables, Expressions in Definitions, Naming, Interpolation, Extracting characters from a string
+2) C: Compiler, Variables, Operations, Screen Output, Conditional Operator, Operator Brackets, Homework, Line break, Keyboard input, Writing calculator
