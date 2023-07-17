@@ -62,3 +62,6 @@ Here's the progress made so far:
 
 - DAY 11:
 1) Python: String slices; Data types; Immutability and primitive types; Functions and their invocation; Function signature; Function — expression invocation; Determinism; Standard Library
+
+- DAY 12:
+1) Computer Architecture: the device of the simplest computer, clock generator, synchronization in the computer, input/output inside the computer, interrupts in the computer, interrupt controller, interrupt vector table,
