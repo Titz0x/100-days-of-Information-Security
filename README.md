@@ -64,4 +64,8 @@ Here's the progress made so far:
 1) Python: String slices; Data types; Immutability and primitive types; Functions and their invocation; Function signature; Function — expression invocation; Determinism; Standard Library
 
 - DAY 12:
-1) Computer Architecture: the device of the simplest computer, clock generator, synchronization in the computer, input/output inside the computer, interrupts in the computer, interrupt controller, interrupt vector table,
+1) Computer Architecture: the device of the simplest computer, clock generator, synchronization in the computer, input/output inside the computer, interrupts in the computer, interrupt controller, interrupt vector table
+
+- DAY 13:
+1) Computer Networks (Sozikin) : Introduction to computer networks, classification of networks, network topology, computer network standards, fundamentals of computer network organization + Notes
+2) Programming:
