@@ -68,4 +68,4 @@ Here's the progress made so far:
 
 - DAY 13:
 1) Computer Networks (Sozikin) : Introduction to computer networks, classification of networks, network topology, computer network standards, fundamentals of computer network organization + Notes
-2) Programming:
+2) Programming: Introducion in JavaScript
