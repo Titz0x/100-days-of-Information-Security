@@ -72,4 +72,4 @@ Here's the progress made so far:
 
 - DAY 14:
 1) Operating System, Address Space, Processes, Files, Basic OS Architecture, Architecture Variants, Software Stack, Kernel mode and User mode, Interrupts in the OS, System calls
-2) Programming: JavaScript
+2) Programming: JavaScript {try write college journal on React - [fail ;) ]}
