@@ -76,4 +76,4 @@ Here's the progress made so far:
 
 - DAY 15:
 1) Python: Logical operators, Result of logical operations, Conditional constructions, match operator, while loop, Data aggregation
-2) Algorithms: 
+
