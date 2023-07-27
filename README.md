@@ -77,3 +77,9 @@ Here's the progress made so far:
 - DAY 15:
 1) Python: Logical operators, Result of logical operations, Conditional constructions, match operator, while loop, Data aggregation
 
+- DAY 16:
+1) Decided to use the "Authorization Bypass" lab on Portswigger
+2) Write a demo version of my own roadmap for a web pentest
+3) Decided 1 task for Python
+4) Started reading The Basics of Web Hacking
+
