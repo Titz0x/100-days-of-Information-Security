@@ -83,3 +83,11 @@ Here's the progress made so far:
 3) Decided 1 task for Python
 4) Started reading The Basics of Web Hacking
 
+- DAY 17:
+1) Joined CTF team "Friends"
+2) Practice
+3) Basic concepts of web applications, how they work and the HTTP protocol
+4) Difference Between a Static & a Dynamic Website ( Tutorial with visual Aids)
+5) Client Side Server Side
+6) Web Development Tutorial - Server-side scripting
+
