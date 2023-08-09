@@ -91,3 +91,5 @@ Here's the progress made so far:
 5) Client Side Server Side
 6) Web Development Tutorial - Server-side scripting
 
+- DAY 18:
+1) Course about Computer Networks 1/6 (+ Notes in Obsidian )
