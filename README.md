@@ -97,3 +97,7 @@ Here's the progress made so far:
 - DAY 19:
 1) Course about Computer Networks 2/6 (+ Notes in Obsidian)
 2) Found and downloaded programming courses
+
+- DAY 20:
+1) Course about Computer Networks 3/6 (+ Notes in Obsidian)
+2) 
