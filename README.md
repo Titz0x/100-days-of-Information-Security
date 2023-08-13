@@ -100,4 +100,4 @@ Here's the progress made so far:
 
 - DAY 20:
 1) Course about Computer Networks 3/6 (+ Notes in Obsidian)
-2) 
+2) 3 CTF (bi zone + 2 tryhackme)
