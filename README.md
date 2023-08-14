@@ -101,3 +101,8 @@ Here's the progress made so far:
 - DAY 20:
 1) Course about Computer Networks 3/6 (+ Notes in Obsidian)
 2) 3 CTF (bi zone + 2 tryhackme)
+
+- DAY 21:
+1) Python Learning (+ 1 task codewars) + JavaScript Learning (stepik/yt course Bogdan Stashchuk)
+2) Computer Networks
+3) Web [cyber-ed] + Notes (Obsidian)
