@@ -105,4 +105,4 @@ Here's the progress made so far:
 - DAY 21:
 1) Python Learning (+ 1 task codewars) + JavaScript Learning (stepik/yt course Bogdan Stashchuk)
 2) Computer Networks
-3) Web [cyber-ed] + Notes (Obsidian)
+3) Web [cyber-ed] + Notes (Obsidian) + Lab on Portswigger (OS command injections)
