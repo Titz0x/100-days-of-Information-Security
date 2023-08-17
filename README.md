@@ -106,3 +106,9 @@ Here's the progress made so far:
 1) Python Learning (+ 1 task codewars) + JavaScript Learning (stepik/yt course Bogdan Stashchuk)
 2) Computer Networks
 3) Web [cyber-ed] + Notes (Obsidian) + Lab on Portswigger (OS command injections)
+
+- DAY 22:
+1) CCCamp CTF 2023
+2) Labs On Root-me (for test)
+3) CTF of TryHackMe
+4) Python_Learning
