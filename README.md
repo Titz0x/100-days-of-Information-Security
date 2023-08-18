@@ -112,3 +112,8 @@ Here's the progress made so far:
 2) Labs On Root-me (for test)
 3) CTF of TryHackMe
 4) Python_Learning
+
+- DAY 23:
+1) 8 Labs for SQL (UNION) on Portswigger
+2) 2 task on PicoCTF
+3) Python_Learning
